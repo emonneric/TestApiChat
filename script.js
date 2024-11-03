@@ -19,7 +19,7 @@ function appendMessage(sender, text) {
 
 async function generateBotResponse(userMessage) {
     // Utilisez l'URL de votre backend Glitch
-    const apiUrl = 'https://sly-cloudy-need.glitch.me'; // Remplacez par l'URL de votre projet Glitch
+    const apiUrl = 'https://lunar-bedecked-panama.glitch.me'; // Remplacez par l'URL de votre projet Glitch
 
     try {
         console.log("Envoi de la requête au serveur...");
